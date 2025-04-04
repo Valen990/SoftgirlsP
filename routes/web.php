@@ -12,4 +12,4 @@ Route::get('/teacher', function () {
 
 Route::get('/secretary', function () {
     return view('AdminView.Secretary');
-});gi
+});
